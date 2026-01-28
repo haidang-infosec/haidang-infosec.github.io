@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hai Dang - Security Blog</title>
+    <title>Categories on Hai Dang Security Lab</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Hai Dang - Security Blog</description>
+    <description>Recent content in Categories on Hai Dang Security Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
-    <copyright>© 2026 </copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Hai Dang</copyright>
+    <lastBuildDate>Wed, 28 Jan 2026 20:40:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pentest</title>
+      <link>http://localhost:1313/categories/pentest/</link>
+      <pubDate>Wed, 28 Jan 2026 20:40:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/pentest/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Application</title>
+      <link>http://localhost:1313/categories/web-application/</link>
+      <pubDate>Wed, 28 Jan 2026 20:40:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/web-application/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
