@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/" 
+baseURL = "https://haidang-infosec.github.io/" 
 languageCode = "vi"
 title = "Hai Dang - Security Blog"
 theme = "blowfish"
