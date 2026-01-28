@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hai Dang - Security Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Hai Dang - Security Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 28 Jan 2026 15:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cve</title>
+      <link>http://localhost:1313/tags/cve/</link>
+      <pubDate>Wed, 28 Jan 2026 15:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/cve/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wordops</title>
+      <link>http://localhost:1313/tags/wordops/</link>
+      <pubDate>Wed, 28 Jan 2026 15:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/wordops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>http://localhost:1313/tags/wordpress/</link>
+      <pubDate>Wed, 28 Jan 2026 15:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/wordpress/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wpscan</title>
+      <link>http://localhost:1313/tags/wpscan/</link>
+      <pubDate>Wed, 28 Jan 2026 15:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/wpscan/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

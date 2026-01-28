@@ -1,0 +1,24 @@
+baseURL = "http://localhost:1313/" 
+languageCode = "vi"
+title = "Hai Dang - Security Blog"
+theme = "blowfish"
+
+[params]
+  colorScheme = "blowfish" # Các màu khác: "avocado", "fire", "ocean"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Bài viết"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Chủ đề"
+    url = "/tags/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "Giới thiệu"
+    url = "/about/"
+    weight = 30
