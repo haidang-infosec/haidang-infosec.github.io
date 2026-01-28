@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = "http://localhost:1313/"
+=======
+baseURL = "https://haidang-infosec.github.io/" 
+>>>>>>> 36c4c44e0ed9e7467cf1f070e69583ec7d0e1625
 languageCode = "vi"
 title = "Hai Dang Security Lab"
 theme = "blowfish"
